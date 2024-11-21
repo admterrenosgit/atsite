@@ -1,0 +1,38 @@
+I"�<h1 id="contacto">Contacto</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nombre</th>
+      <th>Poisición</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Hector Rivera Maldonado</td>
+      <td>Director Ejecutivo</td>
+    </tr>
+    <tr>
+      <td>Arq. Carlos Mejia Algarin</td>
+      <td>Director Interino Oficina de Desarrollo y Administracion de Propiedades</td>
+    </tr>
+    <tr>
+      <td>Ivonne Martinez Burgos</td>
+      <td>Directora Interina Recursos Humanos y Relaciones Laborales</td>
+    </tr>
+    <tr>
+      <td>Miembro-Hon. Ramón González Beiró</td>
+      <td>Secretario Departamento de Agricultura</td>
+    </tr>
+    <tr>
+      <td>Miembro-Ing. Eileen M. Vélez Vega</td>
+      <td>Secretaria Departamento de Transportación y Obras Públicas</td>
+    </tr>
+    <tr>
+      <td>Miembro-Hon. William Rodríguez Rodríguez</td>
+      <td>Secretario Departamento de la Vivienda</td>
+    </tr>
+  </tbody>
+</table>
+
+:ET

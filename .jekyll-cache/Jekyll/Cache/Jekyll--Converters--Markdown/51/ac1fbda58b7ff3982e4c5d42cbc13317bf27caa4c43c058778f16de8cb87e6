@@ -1,0 +1,42 @@
+I"O<h2 id="solicitud-de-arrendamiento">SOLICITUD DE ARRENDAMIENTO</h2>
+<ul>
+  <li>INDIVIDUO
+    <ul>
+      <li><a href="http://localhost:4000/docs/ODAP-A-S-003-Arrendamiento_IndividuoIngles.pdf">English</a></li>
+      <li><a href="http://localhost:4000/docs/ODAP-A-S-001-Arrendamiento_IndividuoEspañol.pdf">Español</a></li>
+    </ul>
+  </li>
+  <li>CORPORACION
+    <ul>
+      <li><a href="http://localhost:4000/docs/ODAP-A-S-004-Arrendamiento_CorporacionIngles.pdf">English</a></li>
+      <li><a href="http://localhost:4000/docs/ODAP-A-S-002-Arrendamiento_CorporacionEspañol.pdf">Español</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="solicitud-de-venta">SOLICITUD DE VENTA</h2>
+<ul>
+  <li>INDIVIDUO
+    <ul>
+      <li><a href="http://localhost:4000/docs/ODAP-V-S-003-Venta_IndividuoIngles.pdf">English</a></li>
+      <li><a href="http://localhost:4000/docs/ODAP-V-S-001-Venta_IndividuoEspañol.pdf">Español</a></li>
+    </ul>
+  </li>
+  <li>CORPORACIÓN
+    <ul>
+      <li><a href="http://localhost:4000/docs/ODAP-V-S-004-Venta_CorporacionIngles.pdf">English</a></li>
+      <li><a href="http://localhost:4000/docs/ODAP-V-S-002-Venta_CorporacionEspañol.pdf">Español</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="guias-de-propuestas-desarollo">GUIAS DE PROPUESTAS DESAROLLO</h2>
+<ul>
+  <li><a href="http://localhost:4000/docs/ODAP_Guia_Propuestas_de_Desarrollo_EnglishFEB2020REV.pdf">English</a></li>
+  <li><a href="http://localhost:4000/docs/ODAP_Guia_Propuestas_de_Desarrollo_FEB2020REV.pdf">Español</a></li>
+</ul>
+
+<h2 id="declaración-jurada-código-anticorrupción"><a href="http://localhost:4000/docs/DECLARACIONJURADACODIGOANTICORRUPCION.pdf">DECLARACIÓN JURADA CÓDIGO ANTICORRUPCIÓN</a></h2>
+
+<h2 id="solicitud-información-pública"><a href="http://localhost:4000/docs/SIP-2020-001SolicitudInformacionPublicaEspañolRev.pdf">SOLICITUD INFORMACIÓN PÚBLICA</a></h2>
+:ET

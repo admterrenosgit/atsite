@@ -1,0 +1,216 @@
+I"�
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Nuestra Misión es adquirir, vender, conservar, arrendar o desarrollar los terrenos necesarios para encauzar en ellos todo tipo de proyecto de desarrollo urbano, económico y social, tales como proyectos de vivienda, comercios, industrias, servicios públicos y de conservación del ambiente natural. Garantizar por medio de la creación de reservas, la disponibilidad de terrenos para su futuro desarrollo o conservación. Velar que se utilice la tierra de acuerdo con las políticas públicas establecidas sobre el uso y desarrollo compacto del suelo, nuestro recurso más valioso.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/oig.jpg" alt="placeholder image 1" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">OIG INFORMA</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Cualquier ciudadano puede informar sobre irregularidades en el uso de fondos públicos o que puedan representar el delito de fraude o actos de corrupción pública. Envie un correo electrónico a informa@oig.pr.gov o presente su queja a traves de www.oig.pr.gov/informa. Tambien puede comunicarse con la línea confidencial de la Oficina del Inspector General (OIG) al 787-679-7979. El denunciante esta protegido por ley contra represalias por presentar una queja.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://www.oig.pr.gov/informanos-consulta" class="btn btn--primary">Más Información</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/pr-gov-logo-black.png" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Gobierno de Puerto Rico</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>El portal de internet con información centralizada del Gobierno de Puerto Rico es una herramienta en línea diseñada para brindar a los ciudadanos acceso a información relevante y actualizada sobre los servicios y actividades gubernamentales. Este portal funciona como un punto de encuentro centralizado para todas las agencias y departamentos gubernamentales, lo que permite a los usuarios acceder a información y recursos de manera eficiente y conveniente. Desde el portal, los ciudadanos pueden encontrar información sobre políticas públicas, programas gubernamentales, procesos de solicitud y mucho más, todo en un solo lugar accesible y fácil de usar. El portal de información centralizada del Gobierno de Puerto Rico es una herramienta valiosa para promover la transparencia y la participación ciudadana en la toma de decisiones gubernamentales.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://www.pr.gov/" class="btn btn--primary">Más Información</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-3-th.jpg" alt="" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder 3</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Left Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Left aligned with <code class="language-plaintext highlighter-rouge">type="left"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--right">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Right Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Right aligned with <code class="language-plaintext highlighter-rouge">type="right"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item--center">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="/assets/images/unsplash-gallery-image-2-th.jpg" alt="placeholder image 2" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Placeholder Image Center Aligned</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>This is some sample content that goes here with <strong>Markdown</strong> formatting. Centered with <code class="language-plaintext highlighter-rouge">type="center"</code></p>
+
+            </div>
+          
+
+          
+            <p><a href="/#test-link" class="btn btn--primary">Read More</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+:ET
